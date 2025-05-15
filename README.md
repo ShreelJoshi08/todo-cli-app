@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notes API
 
 A simple Flask-based Notes API.
@@ -21,3 +22,19 @@ A simple Flask-based Notes API.
 - `POST /notes` - Create a new note (`{"title": "...", "content": "..."}`)
 - `PUT /notes/<id>` - Update a note
 - `DELETE /notes/<id>` - Delete a note
+=======
+# CLI To-Do List App
+
+A simple command-line To-Do List app built in Python for Agevole internship onboarding.
+
+## Features
+- Add task
+- View tasks
+- Mark as completed
+- Delete tasks
+- Save tasks to JSON file
+
+## Run the app
+```bash
+python todo.py
+>>>>>>> afc19c556691e1c0baecd3535b9bf6a3a8e9283e
